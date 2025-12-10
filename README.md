@@ -67,15 +67,15 @@ fig.show()
 ### Summary of Findings
 Although the raw visualizations cannot be rendered here without the dataset, the analysis yielded the following data-driven insights:
 
-Traffic Surge: Identified a massive 42x increase in traffic on awards night (peaking at ~1.3M visitors).
+- **Traffic Surge**: Identified a massive 42x increase in traffic on awards night (peaking at ~1.3M visitors).
 
-Strategy Validation: The strategic split reduced the professional site's bounce rate to 33.6% (down from a combined average of 41.6%), proving that industry professionals prefer a dedicated workspace.
+- **Strategy Validation**: The strategic split reduced the professional site's bounce rate to 33.6% (down from a combined average of 41.6%), proving that industry professionals prefer a dedicated workspace.
 
-Engagement Win: Average session duration increased by 40 seconds on the professional domain, indicating higher content relevance.
+- **Engagement Win**: Average session duration increased by 40 seconds on the professional domain, indicating higher content relevance.
 
 ### Recommendations
 Based on the code output, I recommended:
 
-Retain the Domain Split: The lower bounce rate validates the dual-site strategy.
+- Retain the Domain Split: The lower bounce rate validates the dual-site strategy.
 
-Post-Event Retention: Implement a "Day-After" content strategy on the professional site to capture and retain the viral traffic spillover from the awards show.
+- Post-Event Retention: Implement a "Day-After" content strategy on the professional site to capture and retain the viral traffic spillover from the awards show.
