@@ -1,21 +1,18 @@
 # Digital Strategy Analysis: The Grammys & Recording Academy
-
-## 📌 Project Overview
+---
+##  Project Overview
 **Objective:** To evaluate the effectiveness of The Recording Academy's digital restructuring (splitting `grammy.com` and `recordingacademy.com`).
 
 **Context:** I analyzed web analytics data to determine if separating the "fan-facing" site from the "professional" site improved user engagement metrics like Bounce Rate and Session Duration.
 
 ***Note:*** *The raw dataset for this project is not included in this repository due to privacy constraints. This repository serves as a showcase of the Python logic, data manipulation techniques, and visualization code structure used in the analysis.*
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 * **Python (Pandas):** Used for data cleaning, merging multiple datasets (`pd.concat`), and time-series manipulation.
 * **Plotly Express:** Used for creating interactive visualizations to track user journey trends.
 * **Jupyter Notebook:** The environment used for Exploratory Data Analysis (EDA).
 
 ---
-
-## 💻 Technical Implementation
-*Below are the key logic blocks used to derive insights from the raw web analytics data.*
 
 
 ###  Data Aggregation & Cleaning
@@ -62,7 +59,7 @@ fig.update_layout(
 )
 fig.show()
 ```
-
+---
 
 ### Summary of Findings
 Although the raw visualizations cannot be rendered here without the dataset, the analysis yielded the following data-driven insights:
@@ -76,6 +73,6 @@ Although the raw visualizations cannot be rendered here without the dataset, the
 ### Recommendations
 Based on the code output, I recommended:
 
-- Retain the Domain Split: The lower bounce rate validates the dual-site strategy.
+- **Retain the Domain Split**: The lower bounce rate validates the dual-site strategy.
 
-- Post-Event Retention: Implement a "Day-After" content strategy on the professional site to capture and retain the viral traffic spillover from the awards show.
+- **Post-Event Retention**: Implement a "Day-After" content strategy on the professional site to capture and retain the viral traffic spillover from the awards show.
